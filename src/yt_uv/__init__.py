@@ -4,7 +4,6 @@
 """This file contains the necessary functions to test."""
 
 
-
 def hello() -> str:
     """A hello function."""
     return "Hello from yt-uv!"
